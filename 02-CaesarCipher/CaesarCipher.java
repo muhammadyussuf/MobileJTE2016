@@ -3,7 +3,6 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 public class CaesarCipher
 {
-    
     private int shift;
     
     public CaesarCipher(int shift){
