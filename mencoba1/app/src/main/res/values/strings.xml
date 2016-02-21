@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">mencoba1</string>
+    <string name="action_settings">Settings</string>
+    <string name="tulisanhelloword">hello world</string>
+    <string name="tulisanterjemahkanidn">terjemahkan ke indonesia</string>
+    <string name="tulisanterjemahkaning">terjemahkan ke inggris</string>
+    <string name="tulisanaoakabardunia">Apa kabar dunia?</string>
+</resources>
