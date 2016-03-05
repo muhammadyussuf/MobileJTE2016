@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\kuliah\mobile\adt-bundle-windows-x86-20140702\eclipse\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\asusnote\Documents\MobileJTE2016\Tugas05-Spreadsheet\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1-c939a6f4c96e667af2c2e47abdcfdebb5d447fdc.jar" />
+    </item>
+    <item
+        jar="C:\Users\asusnote\Documents\MobileJTE2016\Tugas05-Spreadsheet\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\asusnote\Documents\MobileJTE2016\Tugas05-Spreadsheet\app\build\intermediates\pre-dexed\debug\classes-526d9f4a54c828b227c986d3c565b7be38a9883d.jar" />
+    </item>
+    <item
+        jar="C:\Users\asusnote\Documents\MobileJTE2016\Tugas05-Spreadsheet\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\asusnote\Documents\MobileJTE2016\Tugas05-Spreadsheet\app\build\intermediates\pre-dexed\debug\classes-1d01f3f39df0374ca918e8dfa9a9df14a51e76a5.jar" />
+    </item>
+    <item
+        jar="C:\Users\asusnote\Documents\MobileJTE2016\Tugas05-Spreadsheet\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="C:\Users\asusnote\Documents\MobileJTE2016\Tugas05-Spreadsheet\app\build\intermediates\pre-dexed\debug\classes-55ffdba9792fa007931b5caa58b704defbcdf3f2.jar" />
+    </item>
+    <item
+        jar="C:\Users\asusnote\Documents\MobileJTE2016\Tugas05-Spreadsheet\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\asusnote\Documents\MobileJTE2016\Tugas05-Spreadsheet\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1-aab43b57143bb11c25244fa0138bf1b58bb356bf.jar" />
+    </item>
+    <item
+        jar="C:\Users\asusnote\Documents\MobileJTE2016\Tugas05-Spreadsheet\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="C:\Users\asusnote\Documents\MobileJTE2016\Tugas05-Spreadsheet\app\build\intermediates\pre-dexed\debug\classes-ee1e295205ec2d357311b41051a2a8e35fe252a1.jar" />
+    </item>
+
+</items>
