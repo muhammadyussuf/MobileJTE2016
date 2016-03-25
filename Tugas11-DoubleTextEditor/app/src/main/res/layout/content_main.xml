@@ -1,0 +1,32 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    android:weightSum="1">
+
+
+
+<fragment
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:name="id.ac.unsyiah.elektro.tesmobile.tugas11_doubletexteditor.MainActivityAtas"
+    android:id="@+id/fragment2"
+    tools:layout="@layout/fragment_atas"
+    android:layout_height="122dp"
+    android:layout_width="match_parent" />
+
+    <fragment xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/fragment"
+        android:name="id.ac.unsyiah.elektro.tesmobile.tugas11_doubletexteditor.MainActivityFragment"
+        android:layout_width="match_parent"
+        android:layout_height="257dp"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior"
+        tools:layout="@layout/fragment_main" />
+    android:layout_gravity="bottom" />
+</LinearLayout>
